@@ -1,3 +1,3 @@
 # Begleitmaterial zur Vorlesung "Theorie und Numerik partieller Differentialgleichungen"
-## Wintersemester 2022/23
-
+- Erste Version: Wintersemester 2022
+- Updates: Sommersemester 2024
